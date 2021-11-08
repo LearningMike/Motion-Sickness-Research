@@ -1,6 +1,7 @@
 # Motion Sickness Research
 
 We tend to be uncomfortable with new experiences.
+Link to White Paper: https://docs.google.com/document/d/e/2PACX-1vQe9ovALwpzzemTj97FFigmz61Hqo8ERhvdECJCx2AmiaULwMf4icccNqwD9a8d6IsqRompdUX8QmtS/pub
 
 References
 Burcham, P. M. (2002, 05). Motion Sickness Literature Search. Army Research Laboratory, (ARL-MR-504), 2-3.
