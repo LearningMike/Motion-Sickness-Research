@@ -9,11 +9,11 @@ Here, I present my analysis of a human being walking in real life with the goal 
 
 ![WalkingSimData](https://github.com/LearningMike/Motion-Sickness-Research/assets/31394535/51b32081-927a-4362-972f-2265c7a102b9)
 
-SfsHead: Velocity of the player moving forward.
-SfbLeft: Velocity of the left controller relative to the body.
-SfbRight: Velocity of the right controller relative to the body.
-DfbLeft: Distance of the left controller relative to the body.
-DfbRight: Distance of the right controller relative to the body.
+SfsHead: Velocity of the player moving forward. \
+SfbLeft: Velocity of the left controller relative to the body. \
+SfbRight: Velocity of the right controller relative to the body. \
+DfbLeft: Distance of the left controller relative to the body. \
+DfbRight: Distance of the right controller relative to the body. \
 
 Main points observed within one half walk cycle:
 1. The velocity of the controllers are at maximum while they cross.
@@ -21,7 +21,7 @@ Main points observed within one half walk cycle:
 3. The velocity of the controller moving backwards is the velocity of the player moving forward.
 
   
-### Walking Simulator
+### Walking Simulator (Project Paused)
 [YouTube Video](https://www.youtube.com/watch?v=mYyiv_fWQX0&list=PLtCV-3rgo36gouvLAEJzEdEW9aH_c7YKW&index=7 "Link")  
 [Invite URL](https://www.meta.com/s/3mKE1bO5M "Join")  
 [AppLab Beta (Join via Invite URL First)](https://www.meta.com/en-gb/experiences/5836841769681227 "Join via Invite URL")  
