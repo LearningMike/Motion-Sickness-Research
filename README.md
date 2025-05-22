@@ -7,10 +7,12 @@ Motion sickness is a condition that occurs when exposed to an environment with u
 
 Here, I present my analysis of a human being walking in real life with the goal of bringing the experience of moving in VR closer to real life and significantly reducing the occurrence of motion sickness for most people.
 
-Kevin P Barry Walk Cycle Animation Reference that inspired this
+The Walk Cycle Animation Reference that inspired this -  [100 Ways to walk](https://youtu.be/HEoUhlesN9E)
+
 ![Tracking KevinPBarry](https://raw.githubusercontent.com/LearningMike/Motion-Sickness-Research/refs/heads/main/VR-Movement-With-Controller-Tracking.gif)
 
-Notice that the legs and hands of alternating sides seem to be in sync for most people. So i recorded positional data of a Quest 2 HMD, Left and Right Controllers during a short stride forward by me. Stored it in a CSV format to analyze in Google Sheets.
+Notice the legs and hands of alternating sides seem to be in sync for most people. So i recorded positional data of a Quest 2 HMD, Left and Right Controllers in UE5 during a short stride forward by me. Stored it in a CSV format to analyze in Google Sheets. The colors are not related to the KevinPBarry walk cycle animation reference.
+
 ![WalkingSimData](https://github.com/LearningMike/Motion-Sickness-Research/assets/31394535/51b32081-927a-4362-972f-2265c7a102b9)
 
 SfsHead: Velocity of the player moving forward. \
