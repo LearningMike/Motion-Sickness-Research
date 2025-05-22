@@ -5,8 +5,12 @@
 
 Motion sickness is a condition that occurs when exposed to an environment with unfamiliar motion and orientation cues. We sense our movements in real-life three-dimensional space by vision and deduction from acceleration and deceleration events. While vision is obvious, these deduction events are detected through feedback from multiple systems during acceleration and deceleration; vestibular, haptic and pressure etc. By keeping account of these events, we can predict our orientation, position and help maintain our postural balance. When our different perceptions of these events do not match it creates a subversion in experience, as what we believe should be happening is not. While the easiest solution to Motion Sickness is to avoid motion, this greatly affects immersion in Virtual Reality games with freedom of movement. The goal is to research and develop a locomotion system for VR games that maintains immersion while greatly reducing the effects of motion sickness without use of massive or room-scale space.
 
-Here, I present my analysis of a human being walking in real life with the goal of bringing the experience of moving in VR closer to real life and significantly reducing the occurrence of motion sickness for most people. This experience is interpreted as the positional data of a Quest 2 HMD, Left and Right Controllers during a short stride forward.
+Here, I present my analysis of a human being walking in real life with the goal of bringing the experience of moving in VR closer to real life and significantly reducing the occurrence of motion sickness for most people.
 
+Kevin P Barry Walk Cycle Animation Reference that inspired this
+![Tracking KevinPBarry](https://raw.githubusercontent.com/LearningMike/Motion-Sickness-Research/refs/heads/main/VR-Movement-With-Controller-Tracking.gif)
+
+Notice that the legs and hands of alternating sides seem to be in sync for most people. So i recorded positional data of a Quest 2 HMD, Left and Right Controllers during a short stride forward by me. Stored it in a CSV format to analyze in Google Sheets.
 ![WalkingSimData](https://github.com/LearningMike/Motion-Sickness-Research/assets/31394535/51b32081-927a-4362-972f-2265c7a102b9)
 
 SfsHead: Velocity of the player moving forward. \
